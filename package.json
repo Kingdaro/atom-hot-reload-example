@@ -4,7 +4,7 @@
   "author": "Kingdaro <kingdaro@gmail.com>",
   "private": true,
   "scripts": {
-    "dev": "webpack-dev-server --inline --hot --progress",
+    "dev": "webpack-dev-server --inline --hot --progress --port=3000",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {

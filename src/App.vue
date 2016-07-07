@@ -9,7 +9,7 @@
 export default {
   data () {
     return {
-      msg: 'Bleh Vue 2.0!'
+      msg: 'Hello Vue 2.0!'
     }
   }
 }
