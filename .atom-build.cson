@@ -1,0 +1,7 @@
+targets:
+  dev:
+    cmd: 'npm'
+    args: ['run', 'dev']
+  build:
+    cmd: 'npm'
+    args: ['run', 'build']
